@@ -1,2 +1,2 @@
 # Etch-a-sketch
-JavaScript/jQuery sketchpad
+JavaScript/jQuery 'sketchpad'
